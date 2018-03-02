@@ -1,2 +1,4 @@
 # deep-learning-practice
-deep learning code
+- neural network implementation (~3/11)
+-
+-
